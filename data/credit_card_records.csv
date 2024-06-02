@@ -1,0 +1,51 @@
+Date,Amount,Location,Store,Fraudulent
+1993-09-08,186.23,Leemouth,Odom-Sherman,True
+1988-01-21,645.91,East Roger,Melton-Lucero,True
+1988-12-06,780.18,Port Christineburgh,Andrews Ltd,False
+2008-03-26,593.8,Aarontown,"Adams, Hoffman and Nelson",True
+2006-07-01,884.85,South Stephenbury,"Hayes, Parker and Jones",False
+2016-04-18,282.14,New Karen,Martin-Chapman,True
+1994-03-24,302.91,Wolfmouth,Carr Group,False
+2009-06-01,448.52,Danielleview,Hart-Kemp,False
+1979-12-28,6.9,Port Edwardburgh,"Ramos, Bowen and Perez",True
+1970-02-23,214.48,Lake Marctown,"Freeman, Duran and Hill",True
+2000-04-12,312.75,South Emily,"Zimmerman, Goodman and Pratt",True
+1979-08-15,558.27,Jacksonchester,Ross Ltd,True
+2011-07-09,910.31,Port Michelle,Blair PLC,False
+2020-05-24,878.31,West Jefferyland,Gray Inc,True
+2000-05-05,448.55,Osbornhaven,"Lamb, Berger and Freeman",False
+2002-03-31,620.37,Lake Tomchester,Orozco-Flores,False
+1972-05-15,845.82,Annettehaven,Murphy-Wilson,True
+1993-10-17,704.98,Alyssashire,Henderson-Singleton,False
+1986-11-30,185.18,Huffland,King Inc,False
+2023-10-25,620.11,Seanberg,Andrews LLC,True
+1989-11-27,433.17,Tracyshire,Guerrero-Taylor,False
+1983-05-24,2.66,Dustinberg,Johnson and Sons,True
+1972-03-31,202.53,Nicholasmouth,"Nelson, Moore and Kidd",False
+1988-03-11,445.98,Fisherborough,"Stark, Mitchell and Miller",True
+1981-10-06,806.81,Tylerport,"Barnes, Richards and Gibbs",True
+2002-09-01,619.24,Campbellmouth,Castro-Odom,False
+1970-08-31,175.2,New Willieberg,Moreno-Burton,False
+2020-08-20,778.48,Lake Taylor,Harper Inc,True
+2007-05-24,176.65,Davisberg,Olsen Ltd,False
+2004-09-11,58.83,Davisbury,Leon and Sons,False
+1989-05-13,505.42,Lake Rebeccamouth,Webster PLC,True
+1981-08-21,651.97,North Jonathan,Stokes-Ferguson,False
+2010-05-25,934.08,Davidmouth,"Villanueva, Wood and Cameron",True
+2023-09-16,822.34,Onealtown,"Fox, Dominguez and Garrett",False
+2020-05-25,643.99,West Timothy,"Key, Anderson and Perez",True
+2000-03-06,718.33,Murrayside,"Lee, Roberts and Lawson",False
+1995-04-01,216.34,Welchville,Quinn-Williams,True
+2021-02-15,966.99,Johnsonmouth,"Peck, Mcgrath and Morris",True
+1995-08-19,914.03,Maddenfurt,Morales Group,True
+2018-12-20,152.94,East Alyssa,"Cox, Butler and Chase",False
+2018-05-15,274.38,Lake James,"Rodriguez, Fisher and Frazier",False
+1987-10-03,555.29,Lake Amy,Salazar Inc,False
+1972-01-02,362.81,Amandachester,"Klein, Hood and Larson",False
+2018-02-05,368.5,Claudiaberg,Benton PLC,False
+2022-03-14,960.84,Rogerstown,Perkins-Young,True
+1974-03-01,954.99,East John,Delgado and Sons,False
+1972-11-04,50.61,Ibarratown,Higgins Group,False
+2022-04-16,763.13,Lake Christopher,"Perez, Green and Rivera",False
+2005-07-02,103.22,Sharpmouth,Wheeler-Williams,False
+2000-06-23,574.43,West Terry,Jones Group,True

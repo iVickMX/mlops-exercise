@@ -1,3 +1,6 @@
+# Student: VICTOR MATA MATA
+# Version 1.1
+
 import pandas as pd
 import random
 from faker import Faker
